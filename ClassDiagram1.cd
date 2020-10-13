@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BLL.BLL_Algorithms" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\BLL_Algorithms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.BLL_DateUpdate">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAQAKIABAAAAAAAAAABAAAEAAAAAACAAA=</HashCode>
+      <FileName>BLL\BLL_DateUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BLL.ExcelFile.VerifyFile">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABEAAAAAIggAEAAAAAQAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BLL\VerifyExcelFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Commonlib.Utilities.CellHelper" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Aspose.Cell.Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Commonlib.Utilities.CommonFuncs">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Commonlib.Utilities.WaterMarkMaker">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAkAAAAAAAIAAAAAAAAgAAACAAA=</HashCode>
+      <FileName>WaterMarkMaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Commonlib.DrawingExts.BitmapExt" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Common\BitmapExt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.Common.DirectoryInfoExt">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\EnumerateAllFilesDirs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.Common.FileHelper">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Common\EnumerateAllFilesDirs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.MainForm">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="pdfExtrator.MainForm.截图的位置">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="pdfExtrator.MainForm.采样点位置">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="pdfExtrator.MainForm.异常代码" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MainForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>GBBApB3XhSMBo9AcAiCMJCUWQBgDBVwAIDQZKQFIiFA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.MeasureDataOutputExcel">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABEAAACEAAACAAAoAAgAEAAAAAAAAAA=</HashCode>
+      <FileName>MeasureDataOutputExcel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.PDFViewer">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAwCACAYAAAAAEAAAQBAAAA=</HashCode>
+      <FileName>PDFViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.Program">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.Model.DataSharePak" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\DataShare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.Model.MeasurePdfData">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBAAAARAAwAEAAAAEAIAAAEAAEAAAAAAAEAAAgABAI=</HashCode>
+      <FileName>Model\MeasureInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.File.PdfFile">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAgAAAACEAJAAAAAAAAAAAAAAAAgABAAAAAAA=</HashCode>
+      <FileName>Model\PdfFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.File.XlsxData">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgAAAQAAAAQEAAIADBAgAAAAAgAAAAAAABEAAIAAg=</HashCode>
+      <FileName>Model\XlsxFIle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.RBCurvePositons">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAMAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RBCurvePositons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.Properties.Resources">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAQAAABEAAAAQgAAAAAAABAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pdfExtrator.Properties.Settings">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Model.File.RCPosition">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAEAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\XlsxFIle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Models.Vector3RGB" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAEAQyA=</HashCode>
+      <FileName>Model\RBCurvePositons.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="pdfExtrator.Model.DayOrNight">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\MeasureInfo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
